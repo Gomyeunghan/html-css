@@ -1,1 +1,18 @@
 /* CSS 선택자(Selector) */
+/* * = 전체선택자 */
+* {
+  color: yellowgreen;
+}
+
+p {
+  color: blue;
+}
+.note {
+  color: gray;
+}
+#euid {
+  color: aqua;
+}
+a[href] {
+  color: orange;
+}
